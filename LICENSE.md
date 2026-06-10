@@ -1,4 +1,4 @@
-# 
+# 轻量 AI Job Application Bot 工具。集成 模型优化 和 情感分析，性能最大化。
 
 
 
